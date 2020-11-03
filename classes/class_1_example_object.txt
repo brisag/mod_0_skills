@@ -1,3 +1,6 @@
+rectangle table
+
+
 Attributes
 color 'brown'
 material 'wood'
