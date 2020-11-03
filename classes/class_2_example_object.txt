@@ -1,0 +1,14 @@
+Beverage Cup
+
+Attributes
+Attributes
+material 'glass'
+color 'clear'
+liquid_capacity 1000
+clean true
+
+Methods
+drink 3000 / 1000 = .8
+fill 2000
+empty (finished liquid content)
+wash (if clean is false, prompts to wash; of clean is true, no wash)

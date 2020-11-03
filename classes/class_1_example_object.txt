@@ -1,0 +1,11 @@
+Attributes
+color 'brown'
+material 'wood'
+shape 'rectangle'
+seats 6
+clean false
+
+Methods
+add_seat 6 + 1
+clean_table
+paint_table (modify color)
