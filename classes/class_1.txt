@@ -1,0 +1,14 @@
+Table
+
+Attributes
+color (string)
+material (string)
+shape (string)
+seats (integer)
+clean (boolean)
+
+Methods
+add_seat (increases seat by one)
+remove_seat (decrease seat by one)
+clean_table (if clean is false, clean table.  If clean is true, no action)
+paint_table (modify color)
