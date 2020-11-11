@@ -9,6 +9,7 @@ seats 6
 clean false
 
 Methods
-add_seat 6 + 1
-clean_table
-paint_table (modify color)
+AddSeat 6 + 1
+CleanTable
+paintTable (modify color)
+choseShape (chose different shape)

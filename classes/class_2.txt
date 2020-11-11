@@ -2,13 +2,17 @@ beverage cup
 
 Attributes
 material (string)
-color (String)
-liquid_capacity (integer)
-clean (boolean)
+color (string)
+beverage (string)
+size (string)
+totalCapacity (integer)
+currentCapacity (integer)
 
 
 Methods
-drink (decrease value of liquid content)
-fill (add value to liquid content)
-empty (finished liquid content)
-wash (if clean is false, prompts to wash; of clean is true, no wash)
+changeBeverage (changes the beverage attribute)
+changeSize (change size of beverage cup)
+hold (holds totalCapacity of beverage)
+drink (decreases integer of liquidCapacity)
+calculatePercentFull (divides currentCapacity by totalCapacity)
+fill (adds integer to liquidCapacity)
